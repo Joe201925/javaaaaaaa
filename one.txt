@@ -8,3 +8,4 @@ to
 push
 写点新的remote
 这是在git上写的
+那这些就是在github上写的哦
