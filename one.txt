@@ -7,3 +7,4 @@ file
 to 
 push
 写点新的remote
+这是在git上写的
